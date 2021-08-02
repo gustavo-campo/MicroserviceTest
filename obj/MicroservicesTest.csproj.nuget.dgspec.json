@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Research\\MicroservicesTest\\MicroservicesTest.csproj": {}
+    "C:\\Repos\\MicroserviceTest\\MicroservicesTest.csproj": {}
   },
   "projects": {
-    "C:\\Research\\MicroservicesTest\\MicroservicesTest.csproj": {
+    "C:\\Repos\\MicroserviceTest\\MicroservicesTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Research\\MicroservicesTest\\MicroservicesTest.csproj",
+        "projectUniqueName": "C:\\Repos\\MicroserviceTest\\MicroservicesTest.csproj",
         "projectName": "MicroservicesTest",
-        "projectPath": "C:\\Research\\MicroservicesTest\\MicroservicesTest.csproj",
+        "projectPath": "C:\\Repos\\MicroserviceTest\\MicroservicesTest.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Research\\MicroservicesTest\\obj\\",
+        "outputPath": "C:\\Repos\\MicroserviceTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",

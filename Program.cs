@@ -18,6 +18,7 @@ namespace MicroservicesTest
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
+                //se configura logging para que en caso de estar en ambiente de produccion la salida sea en formato json
                 .ConfigureLogging((context, logging) => {
                     if (context.HostingEnvironment.IsProduction())
                     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "toLxka9EWVDYr2XYh7GQf3zCRpd7Z/L4AfqUbCMTeY0iBiMsZJ4YA3hhSmoCXBwayS0pL8zkh+fJNUX/JBnzxA==",
+  "dgSpecHash": "4eWIsTMvdFZaFga+tAjhRacWGs2Ts/74G0fMesYjLVu05VOZsgSS4D0J+72YsSkw0ns69FuW8cvuOCK0+cU1ZA==",
   "success": true,
-  "projectFilePath": "C:\\Research\\MicroservicesTest\\MicroservicesTest.csproj",
+  "projectFilePath": "C:\\Repos\\MicroserviceTest\\MicroservicesTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",

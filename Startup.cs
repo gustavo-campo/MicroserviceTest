@@ -42,6 +42,8 @@ namespace MicroservicesTest
                 .AddTransientHttpErrorPolicy(builder => builder.WaitAndRetryAsync(10, retryAttempt => TimeSpan.FromSeconds(Math.Pow(2, retryAttempt))))
                 .AddTransientHttpErrorPolicy(builder => builder.CircuitBreakerAsync(3, TimeSpan.FromSeconds(10)));
             services.AddHealthChecks()
+                //esta prueba envia un ping a la url de nuestra api y verifica su correcto funcionamiento
+                //podemos hacer tantos checks como servicios/endpoint/db tengamos
                 .AddCheck<ExternalEndpointsHealthChecks>("WeatherCheck");
         }
 
