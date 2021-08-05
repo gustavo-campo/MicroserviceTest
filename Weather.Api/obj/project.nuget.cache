@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oBa6krK+yVM+ZjlqQdGIdvMspRN7JwCsuHWkXavid3zS5gRH4LGvhm/pWE4NUyhQfk7yN29G2H2hbxsSBX/V/w==",
+  "dgSpecHash": "Enwy0l3fP4yQUyDGxfbPSYRY/AGrV0cdV9dWBqdOO6QnmUssN6dN+fR7MpwqyQtYpBIsX4hxcE5/aXLGofys0Q==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\MicroserviceTest\\Weather.Api\\Weather.Api.csproj",
+  "projectFilePath": "C:\\Research\\MicroserviceTest\\Weather.Api\\Weather.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",

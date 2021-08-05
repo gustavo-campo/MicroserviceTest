@@ -34,6 +34,8 @@ namespace Weather.Api
         //declaramos el metodo que vamos a utilizar
         public async Task<Response> GetCurrentWeatherAsync(string city)
         {
+            if (string.IsNullOrEmpty(city)) city = "";
+
             //armamos la url tomando la direccion del endpoint desde el appsetting, el valor city desde el parametro de metodo y la apikey desde los user secrets
             string url = $"https://{ _settings.OpenWheaterHost }/data/2.5/weather?q={ city }&appid={ _settings.ApiKey }&units=metric";
             //invocamos el endpoint pasandole el tipo de claso que vamos a usar para deserializar y la url correspondiente

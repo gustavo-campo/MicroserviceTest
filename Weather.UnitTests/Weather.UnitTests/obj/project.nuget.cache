@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Zjq7GEBFQDfJef+cWiKqDHAK0mygdJlsxySeLjOLiZoKiBB1uZmMPjj94Pr6BopoKx1P2wdjn1JpBhgzV3vNA==",
+  "dgSpecHash": "Lj09odZFgDPJvXWZ8y2jB2N4T4Jp+uIausTwroFnps+aViNJUX+PdWbJuvJYQ3dNkVEiorGQSgvpyO1v72ZAIQ==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\MicroserviceTest\\Weather.UnitTests\\Weather.UnitTests\\Weather.UnitTests.csproj",
+  "projectFilePath": "C:\\Research\\MicroserviceTest\\Weather.UnitTests\\Weather.UnitTests\\Weather.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
