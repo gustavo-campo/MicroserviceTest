@@ -1,4 +1,4 @@
-# MicroserviceTest
+# Weather.Api
 Ejemplo de microservicio para consultar el clima via OpenWeather.Org
 
 # Instrucciones
