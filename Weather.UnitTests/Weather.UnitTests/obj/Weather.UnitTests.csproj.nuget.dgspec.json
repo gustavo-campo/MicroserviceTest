@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Research\\MicroserviceTest\\Weather.UnitTests\\Weather.UnitTests\\Weather.UnitTests.csproj": {}
+    "C:\\Repos\\MicroserviceTest\\Weather.UnitTests\\Weather.UnitTests\\Weather.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Research\\MicroserviceTest\\Weather.Api\\Weather.Api.csproj": {
+    "C:\\Repos\\MicroserviceTest\\Weather.Api\\Weather.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Research\\MicroserviceTest\\Weather.Api\\Weather.Api.csproj",
+        "projectUniqueName": "C:\\Repos\\MicroserviceTest\\Weather.Api\\Weather.Api.csproj",
         "projectName": "Weather.Api",
-        "projectPath": "C:\\Research\\MicroserviceTest\\Weather.Api\\Weather.Api.csproj",
+        "projectPath": "C:\\Repos\\MicroserviceTest\\Weather.Api\\Weather.Api.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Research\\MicroserviceTest\\Weather.Api\\obj\\",
+        "outputPath": "C:\\Repos\\MicroserviceTest\\Weather.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Research\\MicroserviceTest\\Weather.UnitTests\\Weather.UnitTests\\Weather.UnitTests.csproj": {
+    "C:\\Repos\\MicroserviceTest\\Weather.UnitTests\\Weather.UnitTests\\Weather.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Research\\MicroserviceTest\\Weather.UnitTests\\Weather.UnitTests\\Weather.UnitTests.csproj",
+        "projectUniqueName": "C:\\Repos\\MicroserviceTest\\Weather.UnitTests\\Weather.UnitTests\\Weather.UnitTests.csproj",
         "projectName": "Weather.UnitTests",
-        "projectPath": "C:\\Research\\MicroserviceTest\\Weather.UnitTests\\Weather.UnitTests\\Weather.UnitTests.csproj",
+        "projectPath": "C:\\Repos\\MicroserviceTest\\Weather.UnitTests\\Weather.UnitTests\\Weather.UnitTests.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Research\\MicroserviceTest\\Weather.UnitTests\\Weather.UnitTests\\obj\\",
+        "outputPath": "C:\\Repos\\MicroserviceTest\\Weather.UnitTests\\Weather.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,8 +95,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Research\\MicroserviceTest\\Weather.Api\\Weather.Api.csproj": {
-                "projectPath": "C:\\Research\\MicroserviceTest\\Weather.Api\\Weather.Api.csproj"
+              "C:\\Repos\\MicroserviceTest\\Weather.Api\\Weather.Api.csproj": {
+                "projectPath": "C:\\Repos\\MicroserviceTest\\Weather.Api\\Weather.Api.csproj"
               }
             }
           }
